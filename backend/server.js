@@ -1,4 +1,4 @@
-// server.js - 项目入口文件
+// server.js
 const express = require('express');
 const http = require('http');
 const { Server } = require('socket.io');
